@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Import Example/buildingBlocks.iml" filepath="$PROJECT_DIR$/Import Example/buildingBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../concurrency/concurrency.iml" filepath="$PROJECT_DIR$/../concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coreApi/coreApi.iml" filepath="$PROJECT_DIR$/../coreApi/coreApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dateAndTime/dateAndTime.iml" filepath="$PROJECT_DIR$/../dateAndTime/dateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdasAndStreams.iml" filepath="$PROJECT_DIR$/lambdasAndStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nio2/nio2.iml" filepath="$PROJECT_DIR$/../nio2/nio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/..//operatorsAndStatements.iml" filepath="$PROJECT_DIR$/..//operatorsAndStatements.iml" />
+    </modules>
+  </component>
+</project>
